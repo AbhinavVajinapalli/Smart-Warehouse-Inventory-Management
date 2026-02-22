@@ -1,0 +1,25 @@
+# Core data science
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+plotly
+
+# Dashboard
+streamlit
+
+# Reinforcement Learning
+stable-baselines3
+gymnasium
+torch
+
+# Data sources / utilities
+fredapi
+pytrends
+holidays
+
+# Optional helpers (safe to include)
+tqdm
+scipy
