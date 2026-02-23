@@ -49,7 +49,7 @@ Smart-Warehouse-Inventory-Management/
 │
 ├── images/                                       # Dashboard screenshots & plots
 │
-└── report/                                       # Final project report PDF
+└── report                                       # Final project report PDF
 ```
 
 ---
@@ -161,3 +161,4 @@ AI/ML Student | Data Science | Reinforcement Learning | Full-Stack ML Systems
 ## ⭐ If you like this project
 
 Consider starring the repository ⭐ to support the work.
+
